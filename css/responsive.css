@@ -1,0 +1,347 @@
+@media(min-width:320px) and (max-width:767px){
+    #hero .hlw {
+    margin-top: 19px; 
+}
+#hero .btn {
+    border-radius: 6px;
+    padding: 7px 38px 8px 23px;
+    margin-right: 8px;
+}
+#hero .btn-ghost {
+    padding: 7px 32px 8px 12px;
+}
+.btn-pic {
+    margin-left: -30px;
+    margin-top: 11px;
+}
+.btn-img {
+    margin-left: -224px;
+    margin-top: 14px;
+}
+#hero .image {
+    margin-top: 34px;
+}
+#hero p {
+    font-size: 12px;
+}
+p {
+    margin-top: -3px;
+    margin-bottom: 1rem;
+}
+#hero h2 {
+    font-size: 31px;
+}
+.row {
+    --bs-gutter-x: -0.5rem;
+}
+#hero .flw {
+    margin-top: 24px;
+    margin-bottom: -10px;
+}
+#hero .logo {
+    width: 15px;
+    margin-right: 8px;
+    padding: 4px;
+    margin-left: 12px;
+}
+#hero .hand {
+    margin-left: 134px;
+    margin-top: -34px;
+    width: 13px;
+}
+#about .txt h2 {
+    font-size: 34px;
+    margin-bottom: 10px;
+    margin-top: 17px;
+}
+#about .txt p {
+    font-size: 10px;
+    margin-bottom: 30px;
+}
+#about .txt .btn-ghost {
+    border-radius: 7px;
+    padding: 10px 15px;
+}
+#about {
+    margin-top: 85px;
+}
+#box .quality {
+    margin-top: 44px;
+    width: 292px;
+}
+#design img {
+    margin-top: -6px;
+}
+.img-fluid {
+    max-width: 100%;
+    height: 293px;
+}
+#design .text h3 {
+    font-size: 22px;
+    margin-bottom: 5px;
+}
+#design .text p {
+    font-size: 11px;
+    margin-bottom: 39px;
+}
+p {
+    margin-top: -4px;
+}
+#design .text {
+    margin-top: 292px;
+}
+#design .text .btn-ghost {
+    border-radius: 9px;
+    padding: 13px 16px;
+    font-size: 11px;
+}
+#design .text #pookie {
+    margin-top: -446px;
+    margin-left: 205px;
+}
+#design {
+    margin-top: 63px;
+}
+#what {
+    margin-top: 68px;
+}
+#what .text h3 {
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+#what .text p {
+    font-size: 13px;
+    line-height: 177%;
+    margin-bottom: 18px;
+}
+    #what .text .number p {
+    font-size: 9px;
+    line-height: 140%;
+}
+#what .text .number h4 {
+    font-size: 26px;
+}
+#timeline {
+    margin-top: 36px;
+}
+#timeline h2 {
+    font-size: 26px;
+    margin-bottom: 38px;
+}
+.exp h3 {
+    font-size: 16px;
+    margin-left: 24px;
+}
+.exp p {
+    font-size: 15px;
+    line-height: 170%;
+    margin-left: 25px;
+}
+#area {
+    margin-top: 30px;
+}
+#area h2 {
+    font-size: 31px;
+    margin-bottom: 18px;
+}
+#area p {
+    font-size: 12px;
+    line-height: 167%;
+}
+#area .text .btn {
+    border-radius: 8px;
+    width: 132px;
+    padding: 10px 20px;
+    font-size: 13px;
+    margin-top: 12px;
+}
+#area .range .btn-ghost {
+    border-radius: 16px;
+    padding: 12px 52px;
+    font-size: 13px;
+}
+#area .range .emt-btn {
+    font-size: 16px;
+    padding: 16px 0 16px 72px;
+}
+#area .text {
+    margin-bottom: 48px;
+}
+#area .range h5 {
+    font-size: 13px;
+    margin-top: 53px;
+}
+#service {
+    margin-top: 34px;
+    padding-bottom: 65px;
+}
+#service .text h2 {
+    font-size: 31px;
+    padding-top: 31px;
+    margin-bottom: 22px;
+}
+#service .text p {
+    font-size: 12px;
+    margin-bottom: 0px;
+}
+#service .row .box {
+    width: 288px;
+    height: 386px;
+    border-radius: 6px;
+    margin-top: 21px;
+}
+#service .box p {
+    font-size: 15px;
+    margin-top: 25px;
+}#service .row .boxy {
+    height: 417px;
+    margin-top: 13px;
+}
+#valuable {
+    margin-top: 19px;
+}
+#valuable .txt h2 {
+    font-size: 41px;
+    line-height: 116%;
+}
+#valuable .txt p {
+    font-size: 13px;
+    line-height: 185%;
+}
+#valuable .bnr {
+    margin-top: 0px;
+}
+#valuable .text p {
+    font-size: 13px;
+    margin-top: 20px;
+} 
+#valuable .text h6 {
+    font-size: 25px;
+    line-height: 90%;
+}
+#valuable .text span {
+    font-size: 15px;
+    line-height: 156%;
+}
+#blog h1 {
+    font-size: 25px;
+    margin: 30px 0;
+}
+.picbox img {
+    max-width: 50%;
+    height: 50%;
+}
+#blog .box .info p {
+    font-size: 9px;
+}
+#blog .box .info p span {
+    margin-left: 10px;
+    font-size: 8px;
+}
+#blog .box .info h6 {
+    font-size: 11px;
+    margin-bottom: 6px;
+}
+#blog .box .info {
+    margin: 24px 12px;
+}
+#blog .box .info a {
+    font-size: 12px;
+}
+#sub {
+    margin-top: -18px;
+    border-radius: 0px;
+    padding: 50px 0;
+}
+#sub .txt p {
+    font-size: 15px;
+}
+#sub .txt h4 {
+    font-size: 28px;
+}
+#sub .txt span {
+    font-size: 14px;
+}
+#sub .txt h4 {
+    line-height: 120%;
+}
+#sub .form input {
+    width: 362px;
+    height: 48px;
+    padding: 18px;
+    margin-top: 20px;
+}
+.range h6 {
+    font-size: 15px;
+    margin-top: 48px;
+}
+.range h4 {
+    font-size: 15px;
+    margin-top: 49px;
+}
+#last {
+    margin: 0px 0;
+    padding-bottom: 0px;
+}
+#last .logo h6 {
+    font-size: 14px;
+    margin-top: 19px;
+}
+#last .logo p {
+    font-size: 15px;  
+}
+#last .info h4 {
+    font-size: 33px;
+    margin-top: -9px;
+}
+#last .info p {
+    font-size: 11px;
+    margin-bottom: 24px;
+}
+#last .info b {
+    font-size: 15px;
+    line-height: 123%;
+}
+#last .info h6 {
+    font-size: 17px;
+    line-height: 180%;
+}
+#last .logo img {
+    margin-top: 24px;
+}
+#last .end .btn {
+    border-radius: 4px;
+    font-size: 10px;
+    padding: 2px 4px;
+    margin-top: 8px;
+}
+#last .end .find h5 {
+    font-size: 8px;
+}
+#last .end .app img {
+    padding: 1px;
+}
+#last .end .row {
+    margin-top: 10px;
+}
+.exp {
+    border-left: 2px dashed #7a7a7a;
+    max-width: 90%;
+    margin: auto; 
+}
+.exp .year{
+    border-right:none;
+}
+.exp .year::before {
+    right: auto;
+    left: -25px;
+  
+}
+.exp .year::after {
+    right: auto;
+    left: -14px;
+  
+}
+}
+
+
